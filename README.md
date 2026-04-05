@@ -14,7 +14,7 @@
 ## Installation
 1. Clone this repository or visit official website to download
 2. Open `setup.bat` to initialize Flux.py (Python PATH required)
-3. Open `Flux.py` or `Flux.exe` to use cheat
+3. Open `Loader.py` or `Loader.exe` to use cheat
 
 ## Acknowledgement
 This is made for educational purposes, we are not responsible for anything happens to user's account
